@@ -28,6 +28,7 @@ To analyze service booking data, uncover key business insights, and deliver acti
   - Price
   - Booking Status
 - **Data Types**: Dates, numerical, categorical
+  [DOCUMENT LINK](https://github.com/yaswanth3488/multi-service/blob/main/PDF%20VIEW-Multi-Service-Booking-Analysis.pdf)
 
 ---
 
