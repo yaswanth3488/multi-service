@@ -87,7 +87,7 @@ I'm actively seeking **Data Analyst Internships** and **Entry-Level Data Analyti
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](link-to-your-dashboard-image.png)
+![Dashboard Screenshot](https://github.com/yaswanth3488/multi-service/blob/main/Screenshot%202025-04-14%20153452.png)
 
 
 
